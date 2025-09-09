@@ -1,20 +1,12 @@
 <p align="center">
-<img src="./assets/logo-3071751.jpg">
+<img src="./assets/logo-3071751.jpeg">
 </p>
 
-# 🤖️ TeleChat
-
-[English](README.md) | [Chinese](README_CN.md)
+# 🤖️ LikaAIchatbot
 
 <p align="center">
-  <a href="https://t.me/+_01cz9tAkUc1YzZl">
-    <img src="https://img.shields.io/badge/Join Telegram Group-blue?&logo=telegram">
-  </a>
-  <a href="https://t.me/chatgpt68_bot">
+  <a href="https://t.me/LikaAIchatbot">
     <img src="https://img.shields.io/badge/Telegram Bot-grey?&logo=Probot">
-  </a>
-   <a href="https://hub.docker.com/repository/docker/yym68686/chatgpt">
-    <img src="https://img.shields.io/docker/pulls/yym68686/chatgpt?color=blue" alt="docker pull">
   </a>
 </p>
 
