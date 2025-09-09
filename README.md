@@ -258,7 +258,7 @@ python >= 3.10
 Run the robot directly from the source code without using docker, Clone the repository:
 
 ```bash
-git clone --recurse-submodules --depth 1 -b main --quiet https://github.com/yym68686/ChatGPT-Telegram-Bot.git
+git clone --recurse-submodules --depth 1 -b main --quiet https://github.com/mranw/LikaAIchatbot.git
 ```
 
 Install Dependencies:
